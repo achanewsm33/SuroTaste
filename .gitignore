@@ -1,2 +1,3 @@
-# Environment variables
-.env
+# Environment files
+backend/.env
+frontend/.env
